@@ -17,7 +17,7 @@ settings = {
     "FromUserName": "oLXjgjiWeAS1gfe4ECchYewwoyTc",
 
     # URL of your Wexin handler.
-    "url": "http://localhost:3001/callback/neeqsub”,
+    "url": "http://localhost:3001/callback/neeqsub",
 
     # These will be displayed in GUI.
     "mp_display_name": "APP",
